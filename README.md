@@ -40,23 +40,13 @@ artwork, and files it into a folder you choose.
 
 ## Screenshots
 
-> _The app lives in your menu bar. Click the icon to search; the gear opens Settings._
+<p align="center">
+  <img src="docs/screenshot.png" alt="Tubecrate search results in the menu bar" width="400">
+</p>
 
-```
-┌─────────────────────────────────┐
-│ 🎵 Tubecrate            ⚙︎  ⏻     │
-├─────────────────────────────────┤
-│ 🔎 daft punk                  ✕ │
-├─────────────────────────────────┤
-│ ▸ Downloads                     │
-│   ✓ Around the World   Saved 🔍 │
-├─────────────────────────────────┤
-│ ▦  Around the World             │
-│    Daft Punk            7:09  ⬇ │
-│ ▦  One More Time                │
-│    Daft Punk            5:20  ⬇ │
-└─────────────────────────────────┘
-```
+> _The app lives in your menu bar. Click the icon to search; the gear opens Settings, the ⬇ button downloads a track into your crate._
+>
+> _Tracks shown: "On & On" by Cartoon feat. Daniel Levi, released by [NCS (NoCopyrightSounds)](https://ncs.io)._
 
 ---
 
