@@ -73,7 +73,7 @@ artwork, and files it into a folder you choose.
 ### Direct download
 
 Grab `Tubecrate-<version>.zip` from the
-[latest release](https://github.com/giodex/tubecrate/releases/latest),
+[latest release](https://github.com/deejay-tools/tubecrate/releases/latest),
 unzip it, and drag **Tubecrate.app** to Applications. You'll also need `yt-dlp`
 and `ffmpeg` (`brew install yt-dlp ffmpeg`, or let Tubecrate install them from
 Settings on first run).
@@ -85,7 +85,7 @@ right-click the app → **Open**, or run
 ### Build from source
 
 ```bash
-git clone https://github.com/giodex/tubecrate.git
+git clone https://github.com/deejay-tools/tubecrate.git
 cd tubecrate
 
 # Build a proper menu-bar .app bundle
